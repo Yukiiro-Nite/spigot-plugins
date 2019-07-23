@@ -1,0 +1,5 @@
+name: ender-tracker
+version: 1.0-SNAPSHOT
+api-version: 1.14
+author: Yukiiro_Nite
+main: me.yukiironite.endertracker.EnderTracker
